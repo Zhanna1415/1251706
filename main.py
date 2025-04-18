@@ -39,4 +39,4 @@ row.addLayout(col2, 80)
 win.setLayout(row)
 
 win.show()
-app.exec()
+app.exec(),
